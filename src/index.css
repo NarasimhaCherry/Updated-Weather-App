@@ -8,7 +8,7 @@
 }
 .app{
   background-color: grey;
-  height: auto;
-  width: auto;
+  height: 100vh;
+  width: 100vw;
   display: grid;
 }
